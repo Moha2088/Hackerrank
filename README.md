@@ -1,3 +1,3 @@
 # Hackerrank
 
-My solutions for various Hackerrank problems
+My unfinished/finished solutions for various Hackerrank problems
