@@ -1,0 +1,5 @@
+# Staircase Algorithm
+
+1. Udfyld et array med (n - 1) antal spaces, slut med en * og print indholdet ud
+
+2. Fjern et space og erstat det med en * og print den ud, og fortsæt indtil antal stjerner = n
